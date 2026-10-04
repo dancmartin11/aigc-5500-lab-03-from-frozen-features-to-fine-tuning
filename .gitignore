@@ -1,0 +1,12 @@
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+
+# Downloaded datasets and pretrained weights
+data/
+datasets/
+.cache/
+torch_cache/
